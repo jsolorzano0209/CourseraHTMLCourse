@@ -101,3 +101,18 @@ section.col-lg-3.col-md-6 {
 .maintitle {
     text-align: center;
 }
+
+section.col-lg-3.col-md-6 h1 {
+    float: right;
+    position: relative;
+    bottom: 40px;
+    left: 20px;
+    border: 1px solid;
+    padding: 10px;
+}
+section.col-lg-3.col-md-6 p{
+    clear: both;
+    position: relative;
+    bottom: 20px;
+  
+}
