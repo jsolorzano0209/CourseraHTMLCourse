@@ -17,6 +17,9 @@
   }
   .col-lg-3 {
     width: 30%;
+     box-sizing: border-box;
+    padding: 20px;
+    margin: 20px;
   }
   .col-lg-4 {
     width: 33.33%;
@@ -70,6 +73,9 @@
   }
   .col-md-6 {
     width: 50%;
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 10px;
   }
   .col-md-7 {
     width: 58.33%;
@@ -88,6 +94,9 @@
   }
   .col-md-12 {
     width: 100%;
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 10px;
   }
 }
 
@@ -134,43 +143,37 @@
   }
   .col-sm-12 {
     width: 100%;
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 5px;
   }
 }
 
 /*custom adjustments*/
-section.col-lg-3 {
-    box-sizing: border-box;
-    padding: 20px;
-    margin: 20px;
-}
 
-section.col-md-6 {
+/*section.col-md-6 {
     box-sizing: border-box;
     padding: 20px;
     margin: 10px;
-}
+}*/
 
-section.col-sm-12 {
-    box-sizing: border-box;
-    padding: 20px;
-    margin: 5px;
-}
 
-section.col-lg-3{
+
+/*section.col-lg-3{
     box-sizing: border-box;
     padding: 20px;
     margin: 20px;
-}
-section.col-md-12 {
+}*/
+/*section.col-md-12 {
     box-sizing: border-box;
     padding: 20px;
     margin: 10px;
-}
-section.col-sm-12 {
+}*/
+/*section.col-sm-12 {
     box-sizing: border-box;
     padding: 20px;
     margin: 5px;
-}
+}*/
 
 .maintitle {
     text-align: center;
