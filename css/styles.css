@@ -75,7 +75,7 @@
     width: 45%;
     box-sizing: border-box;
     padding: 20px;
-    margin: 20px;
+    margin: 17px;
   }
   .col-md-7 {
     width: 58.33%;
@@ -142,7 +142,7 @@
     width: 91.66%;
   }
   .col-sm-12 {
-    width: 100%;
+    width: 95%;
     box-sizing: border-box;
     padding: 20px;
     margin: 5px;
